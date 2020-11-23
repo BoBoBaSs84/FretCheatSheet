@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MusicStuff">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=MD1TY0TC;Initial Catalog=MusicStuff</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>9042fa99-c46c-48dc-9dd2-56b5a3bbe7f6</DataSourceID>
+</RptDataSource>
